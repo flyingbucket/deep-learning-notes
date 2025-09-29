@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deeplearning basics/7.神经网络.md",
+                "file": "CNN/1.卷积.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.神经网络"
+              "title": "1.卷积"
             }
           }
         ],
@@ -183,8 +183,13 @@
   },
   "active": "c670d27b80c1ef13",
   "lastOpenFiles": [
-    "deeplearning basics/8.梯度回传.md",
+    "CNN/4.归一化.md",
+    "CNN/3.全连接.md",
+    "CNN/2.池化.md",
+    "CNN/1.卷积.md",
     "deeplearning basics/7.神经网络.md",
+    "CNN",
+    "deeplearning basics/8.梯度回传.md",
     "deeplearning basics/2.线性分类器.md",
     "deeplearning basics/1.K近邻.md",
     "Untitled.base",
