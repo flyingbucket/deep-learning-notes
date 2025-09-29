@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deeplearning basics/1.K近邻.md",
+                "file": "CNN/4.全连接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.K近邻"
+              "title": "4.全连接"
             }
           }
         ]
@@ -168,19 +168,19 @@
   },
   "active": "f31aed7b9669e8f6",
   "lastOpenFiles": [
-    "deeplearning basics/2.线性分类器.md",
-    "deeplearning basics/6.优化器.md",
-    "deeplearning basics/5.正则化.md",
-    "deeplearning basics/4.SVM损失.md",
-    "deeplearning basics/7.神经网络.md",
-    "deeplearning basics/3.softmax损失.md",
-    "deeplearning basics/1.K近邻.md",
-    "CNN/1.卷积.md",
-    "deeplearning basics/index.md",
-    "deeplearning basics/8.梯度回传.md",
-    "CNN/4.归一化.md",
-    "CNN/3.全连接.md",
+    "CNN/3.归一化.md",
     "CNN/2.池化.md",
+    "CNN/1.卷积.md",
+    "deeplearning basics/7.神经网络.md",
+    "deeplearning basics/index.md",
+    "deeplearning basics/6.优化器.md",
+    "deeplearning basics/8.梯度回传.md",
+    "deeplearning basics/5.正则化.md",
+    "deeplearning basics/3.softmax损失.md",
+    "CNN/4.全连接.md",
+    "deeplearning basics/2.线性分类器.md",
+    "deeplearning basics/1.K近邻.md",
+    "deeplearning basics/4.SVM损失.md",
     "CNN",
     "Untitled.base",
     "deeplearning basics"
